@@ -122,6 +122,16 @@ cmake --build .
 
 ## 许可证
 
+
+注意事项：开源部分是个原型，完整版后续陆续开源。
+完整版截图：
+1、
+<img width="1280" height="675" alt="1" src="https://github.com/user-attachments/assets/a03a7e2f-ea92-4896-80bb-32de873ed7ef" />
+
+2、
+<img width="1280" height="692" alt="2" src="https://github.com/user-attachments/assets/1676b4fc-c7f6-4612-a302-370c7077f1b7" />
+
+
 MIT License
 
 ## 联系方式
