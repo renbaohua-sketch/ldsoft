@@ -1,0 +1,1 @@
+-ID:/ldsoft/build/src -ID:/ldsoft/src -ID:/ldsoft/build/src/LadderDiagramEditor_autogen/include -isystem D:/Qt/6.8.3/mingw_64/include/QtCore -isystem D:/Qt/6.8.3/mingw_64/include -isystem "D:/Qt/6.8.3/mingw_64/mkspecs/win32-g++" -isystem D:/Qt/6.8.3/mingw_64/include/QtGui -isystem D:/Qt/6.8.3/mingw_64/include/QtWidgets

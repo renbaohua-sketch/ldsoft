@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\LadderDiagramEditor.dir/objects.a
+D:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\LadderDiagramEditor.dir/objects.a @CMakeFiles\LadderDiagramEditor.dir\objects1.rsp
+D:\Qt\Tools\mingw1310_64\bin\g++.exe -mwindows -Wl,--whole-archive CMakeFiles\LadderDiagramEditor.dir/objects.a -Wl,--no-whole-archive -o ..\bin\LadderDiagramEditor.exe -Wl,--out-implib,..\lib\libLadderDiagramEditor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LadderDiagramEditor.dir\linkLibs.rsp

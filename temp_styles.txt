@@ -1,0 +1,39 @@
+        /* ===== QTreeWidget 基础样式 - 适用于所有树形控件 ===== */
+        QTreeWidget {
+            background-color: %2;
+            border: none;
+            color: #000000;
+            font-size: 13px;
+            outline: none;
+            selection-background-color: transparent;
+        }
+        
+        QTreeWidget::item {
+            padding: 5px 8px;
+            border-radius: 4px;
+            margin: 2px 6px;
+            min-height: 24px;
+            border: 1px solid transparent;
+        }
+        
+        QTreeWidget::item:selected {
+            background-color: %14;
+            color: #FFFFFF;
+            border-color: %4;
+        }
+        
+        QTreeWidget::item:hover:!selected {
+            background-color: %13;
+            border-color: %11;
+        }
+        
+        QTreeWidget QHeaderView::section {
+            background-color: %1;
+            color: #000000;
+            border: none;
+            border-bottom: 1px solid %10;
+            padding: 8px;
+            font-weight: 600;
+            font-size: 13px;
+        }
+        

@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/ldsoft/build/cmake_install.cmake",
+		"D:/ldsoft/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

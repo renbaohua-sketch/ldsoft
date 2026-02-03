@@ -1,0 +1,182 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "D:/ldsoft/build/src/LadderDiagramEditor_autogen",
+	"CMAKE_BINARY_DIR" : "D:/ldsoft/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/ldsoft/build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/ldsoft/src",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : [ "D:/ldsoft/src/CMakeLists.txt" ],
+	"CMAKE_SOURCE_DIR" : "D:/ldsoft",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "D:/ldsoft/build/src/LadderDiagramEditor_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "LadderDiagramEditor_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"D:/ldsoft/src/codegen/STCodeGenerator.h",
+			"MU",
+			"EW52EPVLKE/moc_STCodeGenerator.cpp",
+			null
+		],
+		[
+			"D:/ldsoft/src/core/LadderElement.h",
+			"MU",
+			"TAC5DWH4SE/moc_LadderElement.cpp",
+			null
+		],
+		[
+			"D:/ldsoft/src/elements/ConnectionLine.h",
+			"MU",
+			"KRKP2VIC6J/moc_ConnectionLine.cpp",
+			null
+		],
+		[
+			"D:/ldsoft/src/elements/ContactElements.h",
+			"MU",
+			"KRKP2VIC6J/moc_ContactElements.cpp",
+			null
+		],
+		[
+			"D:/ldsoft/src/elements/ControlElements.h",
+			"MU",
+			"KRKP2VIC6J/moc_ControlElements.cpp",
+			null
+		],
+		[
+			"D:/ldsoft/src/elements/FunctionBlockElements.h",
+			"MU",
+			"KRKP2VIC6J/moc_FunctionBlockElements.cpp",
+			null
+		],
+		[
+			"D:/ldsoft/src/elements/LogicElements.h",
+			"MU",
+			"KRKP2VIC6J/moc_LogicElements.cpp",
+			null
+		],
+		[
+			"D:/ldsoft/src/elements/MathElements.h",
+			"MU",
+			"KRKP2VIC6J/moc_MathElements.cpp",
+			null
+		],
+		[
+			"D:/ldsoft/src/ui/LadderScene.h",
+			"MU",
+			"UYX5XTB5RZ/moc_LadderScene.cpp",
+			null
+		],
+		[
+			"D:/ldsoft/src/ui/PropertyEditor.h",
+			"MU",
+			"UYX5XTB5RZ/moc_PropertyEditor.cpp",
+			null
+		],
+		[
+			"D:/ldsoft/src/ui/RibbonMainWindow.h",
+			"MU",
+			"UYX5XTB5RZ/moc_RibbonMainWindow.cpp",
+			null
+		],
+		[
+			"D:/ldsoft/src/ui/ThemeManager.h",
+			"MU",
+			"UYX5XTB5RZ/moc_ThemeManager.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "D:/ldsoft/build/src/LadderDiagramEditor_autogen/include",
+	"MOC_COMPILATION_FILE" : "D:/ldsoft/build/src/LadderDiagramEditor_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"MINGW_HAS_SECURE_API=1",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NEEDS_QMAIN",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"D:/ldsoft/build/src",
+		"D:/ldsoft/src",
+		"D:/Qt/6.8.3/mingw_64/include/QtCore",
+		"D:/Qt/6.8.3/mingw_64/include",
+		"D:/Qt/6.8.3/mingw_64/mkspecs/win32-g++",
+		"D:/Qt/6.8.3/mingw_64/include/QtGui",
+		"D:/Qt/6.8.3/mingw_64/include/QtWidgets",
+		"D:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++",
+		"D:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32",
+		"D:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward",
+		"D:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include",
+		"D:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed",
+		"D:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"D:/Qt/Tools/mingw1310_64/bin/g++.exe",
+		"-std=gnu++17",
+		"-w",
+		"-dM",
+		"-E",
+		"C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "D:/ldsoft/build/src/LadderDiagramEditor_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "D:/ldsoft/build/src/CMakeFiles/LadderDiagramEditor_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "D:/Qt/6.8.3/mingw_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "D:/Qt/6.8.3/mingw_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "D:/ldsoft/build/src/CMakeFiles/LadderDiagramEditor_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "D:/ldsoft/src/codegen/STCodeGenerator.cpp", "MU", null ],
+		[ "D:/ldsoft/src/core/LadderElement.cpp", "MU", null ],
+		[ "D:/ldsoft/src/elements/ConnectionLine.cpp", "MU", null ],
+		[ "D:/ldsoft/src/elements/ContactElements.cpp", "MU", null ],
+		[ "D:/ldsoft/src/elements/ControlElements.cpp", "MU", null ],
+		[ "D:/ldsoft/src/elements/FunctionBlockElements.cpp", "MU", null ],
+		[ "D:/ldsoft/src/elements/LogicElements.cpp", "MU", null ],
+		[ "D:/ldsoft/src/elements/MathElements.cpp", "MU", null ],
+		[ "D:/ldsoft/src/main.cpp", "MU", null ],
+		[ "D:/ldsoft/src/ui/LadderScene.cpp", "MU", null ],
+		[ "D:/ldsoft/src/ui/PropertyEditor.cpp", "MU", null ],
+		[ "D:/ldsoft/src/ui/RibbonMainWindow.cpp", "MU", null ],
+		[ "D:/ldsoft/src/ui/ThemeManager.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
